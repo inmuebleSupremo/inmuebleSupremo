@@ -1,16 +1,16 @@
 ## Hi there, I'm Jack 👋
 
-I am a Junior Fullstack Developer focused on building clean, reliable web applications. 
+I am a Junior Fullstack Developer focused on building clean, reliable and scalable web applications. 
 
 ### 🛠️ Tech Stack
-* **Frontend:** React, JavaScript/TypeScript, Vite, Node.js, HTML5, CSS3, Tailwind CSS, 
-* **Backend:** Java, Spring Boot, REST APIs
-* **Database & Tools:** MySQL, Git, Docker, Postman, Claude Code, Codex, Keycloak, Sourcetree
+* **Frontend:** React, TypeScript, JavaScript, Vite, HTML5, CSS3, Tailwind CSS 
+* **Backend:** Java, Spring Boot, Node.js, REST APIs, Keycloak
+* **Database & Tools:** MySQL, Git, Docker, Sourcetree, Postman 
 
 ### 🚀 What I'm Up To
-* Building full-stack applications.
-* Currently diving deeper into [mention one thing, e.g., Spring Security or React Hooks].
+* Building full-stack applications with React and Spring Boot.
+* Applying Spec-Driven Development with AI assistants (Claude Code, Codex) to maintain strict code quality, structure, and maintainability.
 
 ### 📫 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/jack-mallett-vickers
-* **Email:** jmallettvickers91@gmail.com
+* **LinkedIn:** [jack-mallett-vickers](https://www.linkedin.com/in/jack-mallett-vickers)
+* **Email:** [jmallettvickers91@gmail.com](mailto:jmallettvickers91@gmail.com)
