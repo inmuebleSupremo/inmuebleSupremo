@@ -1,16 +1,23 @@
-## Hi there, I'm Jack 👋
+# Hi there, I'm Jack 👋
 
-I am a Junior Fullstack Developer focused on building clean, reliable and scalable web applications. 
+I'm a **backend-leaning Junior Full-Stack Developer** building web applications with Java, Spring Boot, React and TypeScript.
 
-### 🛠️ Tech Stack
-* **Frontend:** React, TypeScript, JavaScript, Vite, HTML5, CSS3, Tailwind CSS 
-* **Backend:** Java, Spring Boot, Node.js, REST APIs, Keycloak
-* **Database & Tools:** MySQL, Git, Docker, Sourcetree, Postman 
+My experience is primarily project-based, working across REST APIs, relational databases, authentication and authorisation, automated testing, Dockerised environments, and responsive frontend development.
 
-### 🚀 What I'm Up To
-* Building full-stack applications with React and Spring Boot.
-* Applying Spec-Driven Development with AI assistants (Claude Code, Codex) to maintain strict code quality, structure, and maintainability.
+## Tech Stack
 
-### 📫 Let's Connect
-* **LinkedIn:** [jack-mallett-vickers](https://www.linkedin.com/in/jack-mallett-vickers)
-* **Email:** [jmallettvickers91@gmail.com](mailto:jmallettvickers91@gmail.com)
+- **Backend:** Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate
+- **Frontend:** React, TypeScript, JavaScript, Vite, HTML5, CSS3, Tailwind CSS
+- **Database & Auth:** MySQL, Flyway, Keycloak
+- **Tools:** Git, Docker, Docker Compose, Postman, Swagger UI
+
+## What I'm Working On
+
+- Building full-stack applications with a strong focus on **Java and Spring Boot backend development**.
+- Developing practical experience across application architecture, database design, authentication, testing and deployment.
+- Using **spec-driven development** with Claude Code and Codex to support planning, implementation, debugging and code review.
+
+## Let's Connect
+
+- **LinkedIn:** [jack-mallett-vickers](https://www.linkedin.com/in/jack-mallett-vickers)
+- **Email:** [jmallettvickers91@gmail.com](mailto:jmallettvickers91@gmail.com)
