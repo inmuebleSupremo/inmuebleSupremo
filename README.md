@@ -20,4 +20,3 @@ My experience is primarily project-based, working across REST APIs, relational d
 ## Let's Connect
 
 - **LinkedIn:** [jack-mallett-vickers](https://www.linkedin.com/in/jack-mallett-vickers)
-- **Email:** [jmallettvickers91@gmail.com](mailto:jmallettvickers91@gmail.com)
